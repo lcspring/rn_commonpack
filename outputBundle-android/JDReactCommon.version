@@ -1,0 +1,7 @@
+{
+  "moduleName":"JDReactCommon",
+  "moduleCode":"1.0",
+  "targetAppVersion":"5.8.0",
+  "frameworkVersion":"0.59.9",
+  "platform":"android"
+}

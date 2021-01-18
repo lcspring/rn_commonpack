@@ -1,0 +1,10 @@
+# node.js
+#
+.DS_Store
+node_modules/
+scripts/
+npm-debug.log
+yarn-error.log
+yarn.lock
+jdreact.config.js
+package-lock.json
